@@ -1,2 +1,2 @@
 # Link to project:
-negrillojmc.github.io/reace-tailwind
+negrillojmc.github.io/react-tailwind
