@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <div className='max-w-[1240px] mx-auto py-16 px-4 grid lg:grid-cols-3 gap-8 text-gray-300'>
       <div>
-        <h1 className='w-full text-3xl font-bold text-[#00df9a]'>Tailwind</h1>
+        <h1 className='w-full text-3xl font-bold text-[#00df9a]'>Thunderfund</h1>
         <p className='py-4'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione animi cum atque sint repudiandae quas dolore autem inventore aliquam fuga corrupti quibusdam molestiae doloribus eum eos, vitae perspiciatis ab repellat?</p>
         <div className='flex justify-between md:w-[75%] my-6'>
           <FaFacebookSquare size={30} />
